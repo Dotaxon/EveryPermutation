@@ -16,11 +16,11 @@ public class Test {
 
 
         strr.add("E");
-
+        char chr = 'c';
 
         System.out.println(strr.get(0) + strr.get(1) +"\n"+ str.get(0) );
-        
-        
+
+        System.out.println(String.valueOf(chr));
 
 
     }
